@@ -82,7 +82,7 @@ Examine real-world case studies, utilize tools for fund tracking, monitor transa
 **Repository:** [blockchain-forensics](https://github.com/jason-victor1/blockchain-forensics)
 
 ## 🧠 Advanced Track  
-### 📌 [Smart Contract Security & Forensics Deep Dive](./Smart%20Contract%20Security%20%26%20Forensics%20Deep%20Dive)
+### 📌 [Smart Contract Security & Forensics Deep Dive]([./Smart%20Contract%20Security%20%26%20Forensics%20Deep%20Dive](https://github.com/jason-victor1/Smart-Contract-Auditing-Master/blob/main/Smart%20Contract%20Security%20%26%20Forensics%20Deep%20Dive.md))
 
 This is the **flagship advanced module** of the repo, featuring:
 
